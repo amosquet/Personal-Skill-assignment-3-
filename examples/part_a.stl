@@ -1,0 +1,86 @@
+solid part_a
+ facet normal 0 0 0
+  outer loop
+   vertex 0 0 0
+   vertex 50 35 0
+   vertex 50 0 0
+  endloop
+ endfacet
+ facet normal 0 0 0
+  outer loop
+   vertex 0 0 0
+   vertex 0 35 0
+   vertex 50 35 0
+  endloop
+ endfacet
+ facet normal 0 0 0
+  outer loop
+   vertex 0 0 20
+   vertex 50 0 20
+   vertex 50 35 20
+  endloop
+ endfacet
+ facet normal 0 0 0
+  outer loop
+   vertex 0 0 20
+   vertex 50 35 20
+   vertex 0 35 20
+  endloop
+ endfacet
+ facet normal 0 0 0
+  outer loop
+   vertex 0 0 0
+   vertex 50 0 0
+   vertex 50 0 20
+  endloop
+ endfacet
+ facet normal 0 0 0
+  outer loop
+   vertex 0 0 0
+   vertex 50 0 20
+   vertex 0 0 20
+  endloop
+ endfacet
+ facet normal 0 0 0
+  outer loop
+   vertex 50 0 0
+   vertex 50 35 0
+   vertex 50 35 20
+  endloop
+ endfacet
+ facet normal 0 0 0
+  outer loop
+   vertex 50 0 0
+   vertex 50 35 20
+   vertex 50 0 20
+  endloop
+ endfacet
+ facet normal 0 0 0
+  outer loop
+   vertex 50 35 0
+   vertex 0 35 0
+   vertex 0 35 20
+  endloop
+ endfacet
+ facet normal 0 0 0
+  outer loop
+   vertex 50 35 0
+   vertex 0 35 20
+   vertex 50 35 20
+  endloop
+ endfacet
+ facet normal 0 0 0
+  outer loop
+   vertex 0 35 0
+   vertex 0 0 0
+   vertex 0 0 20
+  endloop
+ endfacet
+ facet normal 0 0 0
+  outer loop
+   vertex 0 35 0
+   vertex 0 0 20
+   vertex 0 35 20
+  endloop
+ endfacet
+endsolid part_a
