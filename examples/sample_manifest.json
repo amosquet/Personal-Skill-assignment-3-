@@ -1,0 +1,26 @@
+[
+  {
+    "path": "part_a.stl",
+    "job_id": "job-hive-001",
+    "user_id": "asabale@purdue.edu",
+    "material": "PLA",
+    "print_profile": "0.20mm Standard",
+    "nozzle_diameter": 0.4
+  },
+  {
+    "path": "part_b.stl",
+    "job_id": "job-hive-002",
+    "user_id": "dhillon3@purdue.edu",
+    "material": "PLA",
+    "print_profile": "0.20mm Standard",
+    "nozzle_diameter": 0.4
+  },
+  {
+    "path": "part_c.stl",
+    "job_id": "job-hive-003",
+    "user_id": "awasthi2@purdue.edu",
+    "material": "PLA",
+    "print_profile": "0.20mm Standard",
+    "nozzle_diameter": 0.4
+  }
+]
